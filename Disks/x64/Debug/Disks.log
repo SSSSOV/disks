@@ -1,0 +1,11 @@
+﻿  Form_Request.cpp
+C:\Users\sakun\source\repos\Disks\Form_Request.h(694,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sakun\source\repos\Disks\Form_Request.h(795,6): warning C4101: pole: неиспользованная локальная переменная
+C:\Users\sakun\source\repos\Disks\Form_Request.h(796,16): warning C4101: par: неиспользованная локальная переменная
+C:\Users\sakun\source\repos\Disks\Form_Request.h(796,7): warning C4101: str: неиспользованная локальная переменная
+C:\Users\sakun\source\repos\Disks\Form_Request.h(795,12): warning C4101: num: неиспользованная локальная переменная
+C:\Users\sakun\source\repos\Disks\Form_Request.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Game.cpp
+  Создание кода...
+  Form_Request.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Disks.vcxproj -> C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.exe

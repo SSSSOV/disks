@@ -1,0 +1,6 @@
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.vcxproj.AssemblyReference.cache
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.vcxproj.GenerateResource.cache
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.exe
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.Form_Request.resources
+C:\Users\sakun\source\repos\Disks\x64\Debug\Disks.Game.resources
